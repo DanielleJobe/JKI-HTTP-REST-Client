@@ -50,22 +50,22 @@ See the [Class Report Design](https://bitbucket.org/ChrisCilino/labview-auto-doc
 
 |Member Name|Scope|Dynamic Dispatch|Must Override|Must Use Parent Implementation|Description \ Prototype|
 |-|-|-|-|-|-|
-|Resolve Headers|private|FALSE|FALSE|FALSE|<img src="https://github.com/DanielleJobe/JKI-HTTP-REST-Client.git/wiki/Developer-Resources/APIs/Images/REST-Client-Class-Documentation/Resolve%20Headersc.png" alt="Resolve Headersc.png" width="298" hieght="56" />|
+|Resolve Headers|private|FALSE|FALSE|FALSE|<img src="https://github.com/DanielleJobe/JKI-HTTP-REST-Client/blob/master/Developer-Resources/APIs/Images/REST-Client-Class-Documentation/Create%20REST%20Clientc.png?raw=true" alt="Resolve Headersc.png" width="298" hieght="56" />|
 || | | | ||
 || | | | ||
-|New Client Handle|private|FALSE|FALSE|FALSE|<img src="https://github.com/DanielleJobe/JKI-HTTP-REST-Client.git/wiki/Developer-Resources/APIs/Images/REST-Client-Class-Documentation/New%20Client%20Handlec.png" alt="New Client Handlec.png" width="328" hieght="132" />|
+|New Client Handle|private|FALSE|FALSE|FALSE|<img src="https://github.com/DanielleJobe/JKI-HTTP-REST-Client/blob/master/Developer-Resources/APIs/Images/REST-Client-Class-Documentation/New%20Client%20Handlec.png?raw=true" alt="New Client Handlec.png" width="328" hieght="132" />|
 || | | | ||
 || | | | ||
-|Get client handle|private|FALSE|FALSE|FALSE|<img src="https://github.com/DanielleJobe/JKI-HTTP-REST-Client.git/wiki/Developer-Resources/APIs/Images/REST-Client-Class-Documentation/Get%20client%20handlec.png" alt="Get client handlec.png" width="298" hieght="75" />|
+|Get client handle|private|FALSE|FALSE|FALSE|<img src="https://github.com/DanielleJobe/JKI-HTTP-REST-Client/blob/master/Developer-Resources/APIs/Images/REST-Client-Class-Documentation/Get%20client%20handlec.png?raw=true" alt="Get client handlec.png" width="298" hieght="75" />|
 || | | | ||
 || | | | ||
-|Return client handle|private|FALSE|FALSE|FALSE|<img src="https://github.com/DanielleJobe/JKI-HTTP-REST-Client.git/wiki/Developer-Resources/APIs/Images/REST-Client-Class-Documentation/Return%20client%20handlec.png" alt="Return client handlec.png" width="298" hieght="75" />|
+|Return client handle|private|FALSE|FALSE|FALSE|<img src="https://github.com/DanielleJobe/JKI-HTTP-REST-Client/blob/master/Developer-Resources/APIs/Images/REST-Client-Class-Documentation//Return%20client%20handlec.png?raw=true" alt="Return client handlec.png" width="298" hieght="75" />|
 || | | | ||
 || | | | ||
-|Parse Status Line|private|FALSE|FALSE|FALSE|<img src="https://github.com/DanielleJobe/JKI-HTTP-REST-Client.git/wiki/Developer-Resources/APIs/Images/REST-Client-Class-Documentation/Parse%20Status%20Linec.png" alt="Parse Status Linec.png" width="346" hieght="94" />|
+|Parse Status Line|private|FALSE|FALSE|FALSE|<img src="https://github.com/DanielleJobe/JKI-HTTP-REST-Client/blob/master/Developer-Resources/APIs/Images/REST-Client-Class-Documentation/Parse%20Status%20Linec.png?raw=true" alt="Parse Status Linec.png" width="346" hieght="94" />|
 || | | | ||
 || | | | ||
-|Resolve URL|private|FALSE|FALSE|FALSE|<img src="https://github.com/DanielleJobe/JKI-HTTP-REST-Client.git/wiki/Developer-Resources/APIs/Images/REST-Client-Class-Documentation/Resolve%20URLc.png" alt="Resolve URLc.png" width="298" hieght="56" />|
+|Resolve URL|private|FALSE|FALSE|FALSE|<img src="https://github.com/DanielleJobe/JKI-HTTP-REST-Client/blob/master/Developer-Resources/APIs/Images/REST-Client-Class-Documentation/Resolve%20URLc.png?raw=true" alt="Resolve URLc.png" width="298" hieght="56" />|
 || | | | ||
 || | | | ||
 |Error Handler|protected|TRUE|FALSE|FALSE|<img src="https://github.com/DanielleJobe/JKI-HTTP-REST-Client.git/wiki/Developer-Resources/APIs/Images/REST-Client-Class-Documentation/Error%20Handlerc.png" alt="Error Handlerc.png" width="298" hieght="75" />|
@@ -110,5 +110,3 @@ See the [Class Report Design](https://bitbucket.org/ChrisCilino/labview-auto-doc
 |Destroy REST Client|public|TRUE|FALSE|FALSE|<img src="https://github.com/DanielleJobe/JKI-HTTP-REST-Client.git/wiki/Developer-Resources/APIs/Images/REST-Client-Class-Documentation/Destroy%20REST%20Clientc.png" alt="Destroy REST Clientc.png" width="262" hieght="42" />|
 || | | | |Destroy REST client reference.|
 || | | | ||
-
-
